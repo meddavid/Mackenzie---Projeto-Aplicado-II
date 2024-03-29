@@ -11,4 +11,4 @@
 # Natália Françozo   - Ra:10415636  
 # E-mail: nataliafrancozo@mackenzista.com.br
 # Ana Vitória Silva  - Ra: 10415977
-# anavitoriasilva@mackenzista.com.br
+# E-mail: anavitoriasilva@mackenzista.com.br
