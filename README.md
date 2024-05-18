@@ -22,8 +22,7 @@
   - E-mail: anavitoriasilva@mackenzista.com.br  
 
 ### Links úteis:
-A.	Link Github:
-B.	Link Projeto:
-C.	Link Youtube: https://youtu.be/QNk5DDflTro
+A.	Link Github: https://github.com/meddavid/Mackenzie-Projeto-Aplicado-II
+B.	Link Youtube: https://youtu.be/QNk5DDflTro
 
 ```
